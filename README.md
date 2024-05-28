@@ -56,7 +56,7 @@
 ![django]
 
 - **Databases**:<br><br>
-Snowflake, Big Query, ![mysql] ![postgres] ![sqllite] ![firebase] ![mongo] ![neo4j] ![redis]
+![snowflake] ![bigquery] ![mysql] ![postgres] ![sqllite] ![firebase] ![mongo] ![neo4j] ![redis]
 
 - **Mobile Devlopment**:<br><br>
 ![flutter]
@@ -129,3 +129,5 @@ Snowflake, Big Query, ![mysql] ![postgres] ![sqllite] ![firebase] ![mongo] ![neo
 [postman]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
 [selenium]: https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white
 [bash]: https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white
+[snowflake]: https://img.shields.io/badge/snowflake-%23039BE5.svg?style=for-the-badge&logo=snowflake
+[bigquery]: https://img.shields.io/badge/Google%20BigQuery-E34F26?style=for-the-badge&logo=googlebigquery&logoColor=white
