@@ -53,7 +53,7 @@
 ![html] ![css] ![js] ![bootstrap]
   
 - **Back-End**:<br><br>
-![django]
+![django] ![.net]
 
 - **Databases**:<br><br>
 ![snowflake] ![bigquery] ![mysql] ![postgres] ![sqllite] ![firebase] ![mongo] ![neo4j] ![redis]
@@ -131,3 +131,4 @@
 [bash]: https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white
 [snowflake]: https://img.shields.io/badge/snowflake-%23039BE5.svg?style=for-the-badge&logo=snowflake
 [bigquery]: https://img.shields.io/badge/Google%20BigQuery-E34F26?style=for-the-badge&logo=googlebigquery&logoColor=white
+[.net]: https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
